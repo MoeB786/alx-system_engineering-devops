@@ -1,3 +1,2 @@
 #!/bin/bash
-./102-acrostic An\ Acrostic
-
+cut -c 1 | paste -s -d '
